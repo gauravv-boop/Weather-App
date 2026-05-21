@@ -87,6 +87,8 @@ Open the project folder.
 Open:
 ```bash
 index.html
+script.js
+style.css
 ```
 
 ## Step 4
