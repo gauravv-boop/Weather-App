@@ -140,9 +140,3 @@ Interested in:
 - Web Development
 - DSA
 - Software Engineering
-
----
-
-# ⭐ GitHub
-
-If you like this project, give it a ⭐ on GitHub.
